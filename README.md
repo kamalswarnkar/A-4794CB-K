@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A-4794CB-K
+- 👋 Hi, Kamal Swarnkar
 - 👀 I’m interested in FullStack Web Development and AI-ML
 - 🌱 I’m currently learning Python, Java, C, C++
 
